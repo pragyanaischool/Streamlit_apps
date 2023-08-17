@@ -2,3 +2,4 @@
 streamlit_book
 requests
 numpy
+matplotlib
