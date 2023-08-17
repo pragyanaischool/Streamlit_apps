@@ -7,5 +7,4 @@ pathlib
 moviepy
 imageio
 tensorflow
-utils
-modelutil
+code.trajectory
