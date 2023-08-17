@@ -3,3 +3,9 @@ streamlit_book
 requests
 numpy
 matplotlib
+pathlib
+moviepy
+imageio
+tensorflow
+utils
+modelutil
